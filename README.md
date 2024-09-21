@@ -9,6 +9,4 @@ I’m a passionate and analytical tech enthusiast with a diverse background in f
 
 🎓 Continuous Learner: I’ve studied web development for over a year and am constantly learning new technologies to expand my skills.
 
-🔧 IT Technician in Progress: I’m fascinated by all things related to IT and am exploring opportunities in the IT technician space.
-
 Feel free to explore my repositories, contribute to my projects, or reach out for collaboration! 🚀
