@@ -1,4 +1,4 @@
-Hi there! I’m Joakim
+Hi! I’m Joakim
 I’m a passionate and analytical tech enthusiast with a diverse background in frontend development, project management, and machine learning.
 
 💻 UI Developer: I love designing intuitive and functional user interfaces that provide an optimal experience for end-users. I have experience with HTML, CSS, JavaScript, React, and other modern frontend frameworks.
