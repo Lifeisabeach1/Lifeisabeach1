@@ -1,12 +1,9 @@
-Hi! I’m Joakim
-I’m a passionate and analytical tech enthusiast with a diverse background in frontend development, project management, and machine learning.
+Hi, I’m Joakim — an analytical and driven full-stack-oriented UI developer with a strong foundation in modern frontend development, backend integration, and project management. Over the past four years, I’ve built and worked on real-world web applications, combining clean UI design with scalable, data-driven solutions.
 
-💻 UI Developer: I love designing intuitive and functional user interfaces that provide an optimal experience for end-users. I have experience with HTML, CSS, JavaScript, React, and other modern frontend frameworks.
+I specialize in React and Next.js, using TypeScript and Tailwind CSS to create responsive, accessible, and performance-focused user interfaces. On the backend, I have experience with Node.js, Supabase, PostgreSQL, and API integration, allowing me to work confidently across the full development lifecycle.
 
-📈 Project Manager: In my previous roles, I successfully managed various projects, ensuring that teams stayed on track and delivered quality products on time.
+With a background in project management, I bring structure, clear communication, and delivery focus to development work. I’m comfortable translating requirements into technical solutions, collaborating across roles, and keeping projects on track from planning to deployment.
 
-🌱 Machine Learning Enthusiast: Currently expanding my knowledge in machine learning and artificial intelligence. I enjoy diving into complex algorithms and data-driven solutions.
+I’m also actively expanding my skills in machine learning and AI using Python, driven by a strong interest in data-driven systems and intelligent applications. I value clean code, continuous learning, and solving complex problems through thoughtful engineering.
 
-🎓 Continuous Learner: I’ve studied web development for over a year and am constantly learning new technologies to expand my skills.
-
-Feel free to explore my repositories, contribute to my projects, or reach out for collaboration! 🚀
+I’m always open to collaboration, knowledge sharing, and building products that deliver real value.
